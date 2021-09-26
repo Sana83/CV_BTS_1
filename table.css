@@ -1,0 +1,31 @@
+/*couleur du body*/
+body
+{
+    background-color: #707B7C;
+    color: #f3f3f3;
+}
+
+/*implémentation des sous-titres des titres*/
+h2{
+    font size: 28px;
+    text-transform: uppercase;
+    border-bottom: 3px solid #F39C12;
+}
+
+/*inséretion de l'image avec arrondie*/
+.photo img
+{
+    width: 135px;
+    float: right;
+    border-radius : 15px;
+
+}
+/*Couleur du titre*/
+h1{
+    color:#F39C12;
+}
+
+/*Couleur des onglets*/
+h2{
+    color: #2E4053;
+}
